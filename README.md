@@ -42,9 +42,9 @@ Building real projects. Open to internships and freelance work.
 
 ## 📊 GitHub Stats
 
-![Sayantan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PopcornKitsilano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PopcornKitsilano&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PopcornKitsilano&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=PopcornKitsilano&theme=tokyonight&hide_border=true)
 
 ---
 
