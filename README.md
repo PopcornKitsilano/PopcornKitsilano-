@@ -56,4 +56,4 @@ Building real projects. Open to internships and freelance work.
 
 ---
 
-*3rd year CS student · Kolkata, India · Open to remote internships and freelance projects*
+*3rd year AI and machine learning MAJOR · Kolkata, India · Open to remote internships and freelance projects*
