@@ -1,4 +1,5 @@
-[GitHub_Profile_README.md](https://github.com/user-attachments/files/25665275/GitHub_Profile_README.md)
+[GitHub_Profile_README.md](https://github.com/user-attachments/files/25665275/GitHub_Profile_README.md) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1A56DB,100:00ff88&height=120&section=header&text=Sayantan%20Bhattacharya&fontSize=36&fontColor=ffffff&animation=fadeIn)
 # Hi, I'm Sayantan Bhattacharya
 
 **B.Tech CS (AI & ML) Major** at Techno Main Salt Lake, Kolkata  
