@@ -1,52 +1,54 @@
-[GitHub_Profile_README_v2.md](https://github.com/user-attachments/files/25665336/GitHub_Profile_README_v2.md)
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1A56DB,100:00ff88&height=140&section=header&text=Sayantan%20Bhattacharya&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1A56DB&height=140&section=header&text=Sayantan%20Bhattacharya&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
 
-### Hi, I'm Sayantan Bhattacharya👋
+### Hi, I'm Sayantan
 
-B.Tech CS (AI & ML) major at Techno Main Salt Lake, Kolkata.
-I build real projects and I'm open to remote internships and freelance work.
+B.Tech CS (AI & ML) · Techno Main Salt Lake, Kolkata · Open to remote internships and freelance work
 
 ---
 
-### 🚀 Projects
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,c,java,flask,html,css,bash,linux,git,vscode,arduino&perline=8)](https://skillicons.dev)
+
+---
+
+### Currently Learning
+
+[![Learning](https://skillicons.dev/icons?i=react,nodejs,aws,docker&perline=4)](https://skillicons.dev)
+
+---
+
+### Projects
 
 **[PassME — Full-Stack Password Manager](https://github.com/PopcornKitsilano/PassME)**
-Built with Python, Flask and SQLite. Features Argon2 hashing, Fernet encryption and OWASP Top 10 protections.
+Built with Python, Flask and SQLite. Argon2 hashing, Fernet encryption, OWASP Top 10 protections.
 📺 [Watch Demo](https://www.youtube.com/watch?v=X2SUDquMxqc)
 
 **[BasketBawL — Browser Game](https://github.com/PopcornKitsilano/BasketBAWL)**
-Basketball game built with MIT Scratch. Real-time score tracking, keyboard controls, conditional game logic.
+Basketball game built with MIT Scratch. Real-time scoring, keyboard controls, conditional game logic.
 🎮 [Play it](https://scratch.mit.edu/projects/1061387522/)
 
----
-
-### 🛠️ Tech Stack
-
-```
-Languages      Python  JavaScript  C  C++  Java  SQL  Bash
-Web            Flask  Django  React  Node.js  HTML5  CSS3  Bootstrap
-Security       BurpSuite  Metasploit  Wireshark  Splunk  OWASP Top 10
-Tools          Git  Linux  Arduino  VS Code
-```
+**[Instagram Comment Deleter](https://github.com/PopcornKitsilano/instagram-comment-deleter)**
+Browser console script to bulk-delete Instagram comments. Debugged Bloks UI and cross-origin iframe constraints.
 
 ---
 
-### 📜 Certifications
+### Certifications
 
-- 🎓 [CS50X — Harvard University via edX](https://certificates.cs50.io/2bd9d6d1-fde6-4b09-86c6-358a7c3d5cd3.pdf?size=letter) — 2025
-- 🔐 [PreSecurity Certificate — TryHackMe](https://tryhackme.com/certificate/THM-6A59K7WNUT) — 100+ rooms completed — 2025
-- 🤖 [Getting Started with AI — IBM via Credly](https://www.credly.com/badges/1ce518b3-5079-46bb-8abd-2a96ce32d5e3) — 2024
+- 🎓 [CS50X — Harvard University](https://certificates.cs50.io/2bd9d6d1-fde6-4b09-86c6-358a7c3d5cd3.pdf?size=letter) — 2025
+- 🔐 [PreSecurity — TryHackMe](https://tryhackme.com/certificate/THM-6A59K7WNUT) — 100+ rooms — 2025
+- 🤖 [Getting Started with AI — IBM](https://www.credly.com/badges/1ce518b3-5079-46bb-8abd-2a96ce32d5e3) — 2024
 
 ---
 
-### 📫 Connect with me
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayantan-bh/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayantanbhattacharyauni@gmail.com)
-[![YouTube](https://img.shields.io/badge/PassME_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=X2SUDquMxqc)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/)
 
 ---
 
 *📍 Kolkata, India — Open to remote internships and freelance projects*
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:1A56DB&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1A56DB,100:0f0f0f&height=80&section=footer)
