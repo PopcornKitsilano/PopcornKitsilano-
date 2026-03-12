@@ -1,11 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1A56DB&height=140&section=header&text=Sayantan%20Bhattacharya&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
 
 <h3>Hi, I'm Sayantan 👋</h3>
-
 <p>B.Tech CS (AI & ML) · Techno Main Salt Lake, Kolkata<br>
 Open to remote internships and freelance work</p>
 
-> 📄 **Employer?** &nbsp; [![Resume](https://img.shields.io/badge/Download_Resume-1A56DB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/PopcornKitsilano/PopcornKitsilano/raw/main/resume.pdf)
+<p>📄 <strong>Employer?</strong><br>
+<a href="https://github.com/PopcornKitsilano/PopcornKitsilano/raw/main/resume.pdf">
+<img src="https://img.shields.io/badge/Download_Resume-1A56DB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a></p>
 
 ---
 
@@ -27,34 +29,26 @@ Open to remote internships and freelance work</p>
 <tr>
 <td>
 
-**[PassME — Password Manager](https://github.com/PopcornKitsilano/PassME)**
-
-Python · Flask · SQLite
-
-Argon2 hashing, Fernet encryption, OWASP Top 10 protections.
-
-[![Demo](https://img.shields.io/badge/Watch_Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=X2SUDquMxqc)
+<a href="https://github.com/PopcornKitsilano/PassME"><strong>PassME — Password Manager</strong></a><br>
+Python · Flask · SQLite<br>
+Argon2 hashing, Fernet encryption, OWASP Top 10 protections.<br><br>
+<a href="https://www.youtube.com/watch?v=X2SUDquMxqc"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 
 </td>
 <td>
 
-**[BasketBawL — Browser Game](https://github.com/PopcornKitsilano/BasketBAWL)**
-
-MIT Scratch
-
-Real-time scoring, keyboard controls, conditional game logic.
-
-[![Play](https://img.shields.io/badge/Play_Game-FF6B00?style=flat-square&logo=scratch&logoColor=white)](https://scratch.mit.edu/projects/1061387522/)
+<a href="https://github.com/PopcornKitsilano/BasketBAWL"><strong>BasketBawL — Browser Game</strong></a><br>
+MIT Scratch<br>
+Real-time scoring, keyboard controls, conditional game logic.<br><br>
+<a href="https://scratch.mit.edu/projects/1061387522/"><img src="https://img.shields.io/badge/Play_Game-FF6B00?style=flat-square&logo=scratch&logoColor=white"/></a>
 
 </td>
 </tr>
 <tr>
 <td colspan="2">
 
-**[Instagram Comment Deleter](https://github.com/PopcornKitsilano/instagram-comment-deleter)**
-
-JavaScript · Browser Automation
-
+<a href="https://github.com/PopcornKitsilano/instagram-comment-deleter"><strong>Instagram Comment Deleter</strong></a><br>
+JavaScript · Browser Automation<br>
 Bulk-deletes Instagram comments via console. Debugged Bloks UI and cross-origin iframe constraints.
 
 </td>
