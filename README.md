@@ -12,6 +12,8 @@ B.Tech CS (AI & ML) · Techno Main Salt Lake, Kolkata · Open to remote internsh
 
 ---
 
+[Download my Resume](https://github.com/PopcornKitsilano/PopcornKitsilano/raw/main/ResumeHa_SayantanBhattacharya.pdf)
+
 ### Currently Learning
 
 [![Learning](https://skillicons.dev/icons?i=react,nodejs,aws,docker&perline=4)](https://skillicons.dev)
