@@ -47,6 +47,16 @@ Real-time scoring, keyboard controls, conditional game logic.<br><br>
 <tr>
 <td colspan="2">
 
+<tr>
+<td colspan="2">
+
+<a href="https://github.com/PopcornKitsilano/rag-chatbot"><strong>PDF RAG Chatbot</strong></a><br>
+Python · Flask · LangChain · Groq<br>
+Retrieval-Augmented Generation chatbot that lets users upload PDFs and ask questions. Uses vector embeddings and semantic search to provide grounded answers from documents.
+
+</td>
+</tr>
+
 <a href="https://github.com/PopcornKitsilano/instagram-comment-deleter"><strong>Instagram Comment Deleter</strong></a><br>
 JavaScript · Browser Automation<br>
 Bulk-deletes Instagram comments via console. Debugged Bloks UI and cross-origin iframe constraints.
