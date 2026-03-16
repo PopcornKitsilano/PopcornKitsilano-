@@ -48,16 +48,16 @@ Real-time scoring, keyboard controls, conditional game logic.<br><br>
 <tr>
 <td colspan="2">
 
-<a href="https://github.com/PopcornKitsilano/rag-chatbot"><strong>PDF RAG Chatbot</strong></a><br>
-Python · Flask · LangChain · Groq<br>
-Retrieval-Augmented Generation chatbot that lets users upload PDFs and ask questions. Uses vector embeddings and semantic search to provide grounded answers from documents.
+<a href="https://github.com/PopcornKitsilano/rag-chatbot"><strong>Semantic Search RAG Chatbot</strong></a><br>
+Python · Flask · LangChain · ChromaDB · Groq<br>
+Production-style Retrieval-Augmented Generation pipeline with two-stage retrieval, CrossEncoder reranking, conversation memory, and semantic document search.<br><br>
+
+<a href="https://github.com/PopcornKitsilano/rag-chatbot">
+<img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
-
-<tr>
-<td colspan="2">
-
 <a href="https://github.com/PopcornKitsilano/instagram-comment-deleter"><strong>Instagram Comment Deleter</strong></a><br>
 JavaScript · Browser Automation<br>
 Bulk-deletes Instagram comments via console. Debugged Bloks UI and cross-origin iframe constraints.
