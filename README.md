@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1A56DB&height=140&section=header&text=Sayantan%20Bhattacharya&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
 
-<h3>Yo! Hi I'm Sayantan Bhattacharya 👋</h3>
+<h3>Yo! Hi I'm Sayantan Bhattacharya </h3>
 <p>B.Tech CS (AI & ML) · Techno Main Salt Lake, Kolkata<br>
 Open to remote internships and freelance work</p>
 
@@ -63,7 +63,7 @@ Bulk-deletes Instagram comments via console. Debugged Bloks UI and cross-origin 
 
 ### 📜 Certifications
 
-[![CS50X](https://img.shields.io/badge/CS50X-Harvard-A51C30?style=for-the-badge&logo=edx&logoColor=white)](https://certificates.cs50.io/2bd9d6d1-fde6-4b09-86c6-358a7c3d5cd3.pdf?size=letter)
+[![CS50X](https://img.shields.io/badge/CS50X-Harvard-A51C30?style=for-the-badge&logo=edx&logoColor=white)](https://courses.edx.org/certificates/2a8c91cbabb5466f83f622d4e90b224d)
 [![TryHackMe](https://img.shields.io/badge/PreSecurity-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/certificate/THM-6A59K7WNUT)
 [![IBM](https://img.shields.io/badge/Getting_Started_with_AI-IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/1ce518b3-5079-46bb-8abd-2a96ce32d5e3)
 
